@@ -13,8 +13,5 @@
 .idea/**/libraries
 *iws /out/
 
-# Playwright user data
-user_data/
-
 # Python cache
 __pycache__
